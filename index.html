@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Project Archive — Anurag Kumar</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<nav>
+  <div class="wrap">
+    <div class="brand"><span class="dot"></span> Anurag Kumar</div>
+    <div class="nav-links">
+      <a href="https://my-portfolio-gamma-roan-37.vercel.app/" target="_blank" rel="noopener">Portfolio</a>
+      <a href="https://github.com/oxanuragofficial" target="_blank" rel="noopener">Main GitHub</a>
+      <a href="#client-work">Client Work</a>
+      <a href="#grid">Lab Archive</a>
+    </div>
+    <a class="nav-cta" href="https://github.com/oxanuragofficialprojects" target="_blank" rel="noopener">View Source →</a>
+  </div>
+</nav>
+
+<header class="hero">
+  <div class="wrap">
+    <div class="eyebrow">Build log · oxanuragofficialprojects</div>
+    <h1>Client sites, UI clones<br>and <span class="grad">every experiment between.</span></h1>
+    <p>An archive of front-end work — from delivered client websites to the clones, animations and CSS studies that got me there. Every repo ships as a standalone build with a live GitHub Pages demo.</p>
+    <div class="hero-actions">
+      <a class="btn btn-primary" href="#client-work">View client work ↓</a>
+      <a class="btn btn-ghost" href="https://my-portfolio-gamma-roan-37.vercel.app/" target="_blank" rel="noopener">See main portfolio</a>
+    </div>
+
+    <div class="stats" id="stats">
+      <div class="stat"><div class="num" id="stat-total">00</div><div class="label">Total repositories</div></div>
+      <div class="stat"><div class="num gold" id="stat-client"><span>00</span></div><div class="label">Client projects</div></div>
+      <div class="stat"><div class="num" id="stat-cat">00</div><div class="label">Lab categories</div></div>
+      <div class="stat"><div class="num">100%</div><div class="label">GitHub Pages</div></div>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <section id="client-work">
+    <div class="section-head">
+      <div class="eyebrow" style="color:var(--gold);">Selected work</div>
+      <h2>Client websites, shipped and live.</h2>
+      <p>Business sites built for real clients — salons, a bakery, a restaurant, a gym — each designed around the brand and deployed as a working live site.</p>
+    </div>
+    <div class="client-grid" id="client-grid"></div>
+  </section>
+
+  <section id="grid">
+    <div class="section-head">
+      <div class="eyebrow">Lab archive</div>
+      <h2>Clones, components and CSS studies.</h2>
+      <p>The practice repos — UI clones, animation experiments and small tools — filterable by category.</p>
+    </div>
+    <div class="controls">
+      <h2 style="font-size:16px;color:var(--muted);font-weight:500;font-family:var(--body);">Repositories <span class="count" id="result-count"></span></h2>
+      <input class="search" id="search" placeholder="Search repos…" />
+    </div>
+    <div class="filters" id="filters"></div>
+    <div class="grid" id="card-grid"></div>
+    <div class="empty" id="empty">No repos match that search.</div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>// covers load from /images — drop in a new PNG named after the repo to update any preview</p>
+    <div class="flinks">
+      <a href="https://github.com/oxanuragofficial" target="_blank" rel="noopener">GitHub</a>
+      <a href="https://my-portfolio-gamma-roan-37.vercel.app/" target="_blank" rel="noopener">Portfolio</a>
+    </div>
+  </div>
+</footer>
+
+<script src="js/app.js" defer></script>
+</body>
+</html>
