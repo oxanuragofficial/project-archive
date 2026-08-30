@@ -1,154 +1,627 @@
-<div align="center>
-# 🚀 Project Archive
+<div align="center">
 
-A centralized showcase of web development projects built and published by **Anurag Kumar**.
+# ⚡ PROJECT ARCHIVE
 
-This archive brings multiple websites, UI experiments, clones, animations, business websites, and frontend projects together in one place, making it easy to explore each project, view the live deployment, and inspect the source code.
+### A curated collection of websites, UI experiments, clones, animations & client projects.
 
-## 🌐 Project Archive
+<br>
 
-### 🔗 [Visit Project Archive](https://project-archive-ruddy.vercel.app/)
+<a href="https://project-archive-ruddy.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀_OPEN_PROJECT_ARCHIVE-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Project Archive">
+</a>
 
-Browse the complete collection of projects through the live Project Archive website.
+<br><br>
 
----
+<img src="https://img.shields.io/badge/Projects-42-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Live_Websites-42-111111?style=flat-square">
+<img src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JavaScript-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Status-Active-111111?style=flat-square">
 
-## 📂 Projects
-
-|  # | Project                            | Live Website                                                                         | Source Code                                                                            |
-| -: | ---------------------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
-|  1 | **Cleen**                          | [Live ↗](https://oxanuragofficialprojects.github.io/cleen/)                          | [GitHub ↗](https://github.com/oxanuragofficialprojects/cleen)                          |
-|  2 | **YouTube Video Grid**             | [Live ↗](https://oxanuragofficialprojects.github.io/youtube-video-grid/)             | [GitHub ↗](https://github.com/oxanuragofficialprojects/youtube-video-grid)             |
-|  3 | **YouTube Homepage Clone**         | [Live ↗](https://oxanuragofficialprojects.github.io/youtube-homepage-clone/)         | [GitHub ↗](https://github.com/oxanuragofficialprojects/youtube-homepage-clone)         |
-|  4 | **TCS Website Clone**              | [Live ↗](https://oxanuragofficialprojects.github.io/tcs-website-clone/)              | [GitHub ↗](https://github.com/oxanuragofficialprojects/tcs-website-clone)              |
-|  5 | **Responsive Media Query Grid**    | [Live ↗](https://oxanuragofficialprojects.github.io/responsive-media-query-grid/)    | [GitHub ↗](https://github.com/oxanuragofficialprojects/responsive-media-query-grid)    |
-|  6 | **Professional Profile Card**      | [Live ↗](https://oxanuragofficialprojects.github.io/professional-profile-card/)      | [GitHub ↗](https://github.com/oxanuragofficialprojects/professional-profile-card)      |
-|  7 | **Portfolio Design**               | [Live ↗](https://oxanuragofficialprojects.github.io/portfolio-design/)               | [GitHub ↗](https://github.com/oxanuragofficialprojects/portfolio-design)               |
-|  8 | **Pinterest Login Clone**          | [Live ↗](https://oxanuragofficialprojects.github.io/pinterest-login-clone/)          | [GitHub ↗](https://github.com/oxanuragofficialprojects/pinterest-login-clone)          |
-|  9 | **Periodic Table**                 | [Live ↗](https://oxanuragofficialprojects.github.io/periodic-table/)                 | [GitHub ↗](https://github.com/oxanuragofficialprojects/periodic-table)                 |
-| 10 | **Netflix Landing Clone**          | [Live ↗](https://oxanuragofficialprojects.github.io/netflix-landing-clone/)          | [GitHub ↗](https://github.com/oxanuragofficialprojects/netflix-landing-clone)          |
-| 11 | **Moving Car Animation**           | [Live ↗](https://oxanuragofficialprojects.github.io/moving-car-animation/)           | [GitHub ↗](https://github.com/oxanuragofficialprojects/moving-car-animation)           |
-| 12 | **Landing Page Design**            | [Live ↗](https://oxanuragofficialprojects.github.io/landing-page-design/)            | [GitHub ↗](https://github.com/oxanuragofficialprojects/landing-page-design)            |
-| 13 | **Instagram Clone**                | [Live ↗](https://oxanuragofficialprojects.github.io/instagram-clone/)                | [GitHub ↗](https://github.com/oxanuragofficialprojects/instagram-clone)                |
-| 14 | **HTML Tags Reference**            | [Live ↗](https://oxanuragofficialprojects.github.io/html-tags-reference/)            | [GitHub ↗](https://github.com/oxanuragofficialprojects/html-tags-reference)            |
-| 15 | **HTML Table Practice**            | [Live ↗](https://oxanuragofficialprojects.github.io/html-table-practice/)            | [GitHub ↗](https://github.com/oxanuragofficialprojects/html-table-practice)            |
-| 16 | **Football Bounce Animation**      | [Live ↗](https://oxanuragofficialprojects.github.io/football-bounce-animation/)      | [GitHub ↗](https://github.com/oxanuragofficialprojects/football-bounce-animation)      |
-| 17 | **District Movie Clone**           | [Live ↗](https://oxanuragofficialprojects.github.io/district-movie-clone/)           | [GitHub ↗](https://github.com/oxanuragofficialprojects/district-movie-clone)           |
-| 18 | **CSS Positioning Demo**           | [Live ↗](https://oxanuragofficialprojects.github.io/css-positioning-demo/)           | [GitHub ↗](https://github.com/oxanuragofficialprojects/css-positioning-demo)           |
-| 19 | **CSS Box Model**                  | [Live ↗](https://oxanuragofficialprojects.github.io/css-box-model/)                  | [GitHub ↗](https://github.com/oxanuragofficialprojects/css-box-model)                  |
-| 20 | **CSS Box Layout Experiment**      | [Live ↗](https://oxanuragofficialprojects.github.io/css-box-layout-experiment/)      | [GitHub ↗](https://github.com/oxanuragofficialprojects/css-box-layout-experiment)      |
-| 21 | **CSS Animation Basics**           | [Live ↗](https://oxanuragofficialprojects.github.io/css-animation-basics/)           | [GitHub ↗](https://github.com/oxanuragofficialprojects/css-animation-basics)           |
-| 22 | **Calculator**                     | [Live ↗](https://oxanuragofficialprojects.github.io/calculator/)                     | [GitHub ↗](https://github.com/oxanuragofficialprojects/calculator)                     |
-| 23 | **Baseball Bat Animation**         | [Live ↗](https://oxanuragofficialprojects.github.io/baseball-bat-animation/)         | [GitHub ↗](https://github.com/oxanuragofficialprojects/baseball-bat-animation)         |
-| 24 | **Apple Website Clone**            | [Live ↗](https://oxanuragofficialprojects.github.io/apple-website-clone/)            | [GitHub ↗](https://github.com/oxanuragofficialprojects/apple-website-clone)            |
-| 25 | **Bharat Webstudio**               | [Live ↗](https://oxanuragofficialprojects.github.io/bharat-webstudio-official/)      | [GitHub ↗](https://github.com/oxanuragofficialprojects/bharat-webstudio-official)      |
-| 26 | **Clone Film Website**             | [Live ↗](https://oxanuragofficialprojects.github.io/clonefilmwebsite/)               | [GitHub ↗](https://github.com/oxanuragofficialprojects/clonefilmwebsite)               |
-| 27 | **Sample Website**                 | [Live ↗](https://oxanuragofficialprojects.github.io/sample/)                         | [GitHub ↗](https://github.com/oxanuragofficialprojects/sample)                         |
-| 28 | **User Card**                      | [Live ↗](https://oxanuragofficialprojects.github.io/cardofuser/)                     | [GitHub ↗](https://github.com/oxanuragofficialprojects/cardofuser)                     |
-| 29 | **Counter**                        | [Live ↗](https://oxanuragofficialprojects.github.io/counter/)                        | [GitHub ↗](https://github.com/oxanuragofficialprojects/counter)                        |
-| 30 | **User Details**                   | [Live ↗](https://oxanuragofficialprojects.github.io/userdetails/)                    | [GitHub ↗](https://github.com/oxanuragofficialprojects/userdetails)                    |
-| 31 | **Login Page**                     | [Live ↗](https://oxanuragofficialprojects.github.io/login-page/)                     | [GitHub ↗](https://github.com/oxanuragofficialprojects/login-page)                     |
-| 32 | **Web Calculator**                 | [Live ↗](https://oxanuragofficialprojects.github.io/web-calculator/)                 | [GitHub ↗](https://github.com/oxanuragofficialprojects/web-calculator)                 |
-| 33 | **SS Hair Studio**                 | [Live ↗](https://oxanuragofficialprojects.github.io/ss-hair-studio/)                 | [GitHub ↗](https://github.com/oxanuragofficialprojects/ss-hair-studio)                 |
-| 34 | **The Cutz Salon Website**         | [Live ↗](https://oxanuragofficialprojects.github.io/the-cutz-salon-website/)         | [GitHub ↗](https://github.com/oxanuragofficialprojects/the-cutz-salon-website)         |
-| 35 | **Perfect Cutz Unisex Hair Salon** | [Live ↗](https://oxanuragofficialprojects.github.io/Perfect-Cutz-Unisex-Hair-Salon/) | [GitHub ↗](https://github.com/oxanuragofficialprojects/Perfect-Cutz-Unisex-Hair-Salon) |
-| 36 | **Sparklight Unisex Salon**        | [Live ↗](https://oxanuragofficialprojects.github.io/sparklight-unisexsalon/)         | [GitHub ↗](https://github.com/oxanuragofficialprojects/sparklight-unisexsalon)         |
-| 37 | **Bakery Business Website**        | [Live ↗](https://oxanuragofficialprojects.github.io/bakery-business-website-client/) | [GitHub ↗](https://github.com/oxanuragofficialprojects/bakery-business-website-client) |
-| 38 | **Anurag Kumar Portfolio**         | [Live ↗](https://oxanuragofficialprojects.github.io/anurag-kumar-portfolio/)         | [GitHub ↗](https://github.com/oxanuragofficialprojects/anurag-kumar-portfolio)         |
-| 39 | **Restaurant Website**             | [Live ↗](https://oxanuragofficialprojects.github.io/restaurant-website-client/)      | [GitHub ↗](https://github.com/oxanuragofficialprojects/restaurant-website-client)      |
-| 40 | **Gym E-Commerce Website**         | [Live ↗](https://oxanuragofficialprojects.github.io/gym-ecommerce-website-client/)   | [GitHub ↗](https://github.com/oxanuragofficialprojects/gym-ecommerce-website-client)   |
-| 41 | **Salon Shop Website**             | [Live ↗](https://oxanuragofficialprojects.github.io/salon-shop-website-client/)      | [GitHub ↗](https://github.com/oxanuragofficialprojects/salon-shop-website-client)      |
-| 42 | **Demo Website Template**          | [Live ↗](https://oxanuragofficialprojects.github.io/demo-website-template/)          | [GitHub ↗](https://github.com/oxanuragofficialprojects/demo-website-template)          |
+</div>
 
 ---
 
-## 🛠️ Technologies
+<div align="center">
 
-The projects in this archive use different technologies and concepts, including:
+## ✦ About The Archive
 
-* HTML5
-* CSS3
-* JavaScript
-* Responsive Web Design
-* CSS Animations
-* CSS Grid
-* Flexbox
-* Media Queries
-* UI Design
-* Interactive Components
-* Git & GitHub
-* GitHub Pages
-* Vercel
+This repository is a centralized collection of web projects developed, designed, and deployed across different stages of frontend development.
+
+From small HTML/CSS experiments to complete business websites and interface recreations, every project has its own source repository and live deployment.
+
+**Explore the project → Open the live website → Inspect the source code.**
+
+</div>
 
 ---
 
-## 📁 Project Categories
+<div align="center">
 
-### 🌐 Websites
+# 🌐 PROJECTS
 
-* Business websites
-* Landing pages
-* Portfolio designs
-* Restaurant websites
-* Salon websites
-* E-commerce websites
-
-### 🎨 UI & Clones
-
-* YouTube
-* Instagram
-* Pinterest
-* Netflix
-* Apple
-* TCS
-
-### ⚡ Interactive Projects
-
-* Calculator
-* Counter
-* Periodic Table
-* User Cards
-* Login Pages
-
-### 🎬 CSS & Animation
-
-* Moving Car
-* Football Bounce
-* Baseball Bat
-* CSS Animations
-* Layout Experiments
-
-### 📚 Practice Projects
-
-* HTML Tags Reference
-* HTML Table Practice
-* CSS Box Model
-* CSS Positioning
-* Responsive Media Queries
+</div>
 
 ---
 
-## 🌐 Main Project Archive
+## 01 — Frontend & UI Projects
 
-Explore all projects from one place:
+<div align="center">
 
-**[🚀 Open Project Archive](https://project-archive-ruddy.vercel.app/)**
+### 🧹 Cleen
+
+<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/cleen/main/screenshot.png" width="850">
+
+A modern frontend interface focused on clean visual structure and responsive design.
+
+<br>
+
+<a href="https://oxanuragofficialprojects.github.io/cleen/">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge" alt="Live Website">
+</a>
+&nbsp;
+<a href="https://github.com/oxanuragofficialprojects/cleen">
+<img src="https://img.shields.io/badge/⌘_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+</a>
+
+</div>
 
 ---
 
-## 👨‍💻 Developer
+<div align="center">
 
-**Anurag Kumar**
+### ▶️ YouTube Video Grid
 
-* 🌐 Portfolio: [Visit Portfolio](https://my-portfolio-gamma-roan-37.vercel.app/)
-* 💻 GitHub: [oxanuragofficial](https://github.com/oxanuragofficial)
-* 📦 Project Archive: [Open Archive](https://project-archive-ruddy.vercel.app/)
+<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/youtube-video-grid/main/screenshot.png" width="850">
+
+A responsive video-grid interface inspired by modern video platforms.
+
+<br>
+
+<a href="https://oxanuragofficialprojects.github.io/youtube-video-grid/">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+</a>
+&nbsp;
+<a href="https://github.com/oxanuragofficialprojects/youtube-video-grid">
+<img src="https://img.shields.io/badge/⌘_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
 
 ---
 
-## ⭐ Repository
+<div align="center">
 
-If you find any project useful or interesting, consider giving the repository a ⭐.
+### ▶️ YouTube Homepage Clone
 
-**Built with HTML, CSS, JavaScript and continuous experimentation.**
+<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/youtube-homepage-clone/main/screenshot.png" width="850">
+
+A frontend recreation of a YouTube-style homepage with responsive layout and UI components.
+
+<br>
+
+<a href="https://oxanuragofficialprojects.github.io/youtube-homepage-clone/">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+</a>
+&nbsp;
+<a href="https://github.com/oxanuragofficialprojects/youtube-homepage-clone">
+<img src="https://img.shields.io/badge/⌘_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏢 TCS Website Clone
+
+<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/tcs-website-clone/main/screenshot.png" width="850">
+
+A corporate-style website recreation focused on layout, navigation and responsive presentation.
+
+<br>
+
+<a href="https://oxanuragofficialprojects.github.io/tcs-website-clone/">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+</a>
+&nbsp;
+<a href="https://github.com/oxanuragofficialprojects/tcs-website-clone">
+<img src="https://img.shields.io/badge/⌘_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📱 Responsive Media Query Grid
+
+<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/responsive-media-query-grid/main/screenshot.png" width="850">
+
+A responsive layout experiment demonstrating adaptive grid behaviour across screen sizes.
+
+<br>
+
+<a href="https://oxanuragofficialprojects.github.io/responsive-media-query-grid/">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+</a>
+&nbsp;
+<a href="https://github.com/oxanuragofficialprojects/responsive-media-query-grid">
+<img src="https://img.shields.io/badge/⌘_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 👤 Professional Profile Card
+
+<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/professional-profile-card/main/screenshot.png" width="850">
+
+A compact professional profile-card UI built with responsive frontend techniques.
+
+<br>
+
+<a href="https://oxanuragofficialprojects.github.io/professional-profile-card/">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+</a>
+&nbsp;
+<a href="https://github.com/oxanuragofficialprojects/professional-profile-card">
+<img src="https://img.shields.io/badge/⌘_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💼 Portfolio Design
+
+<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/portfolio-design/main/screenshot.png" width="850">
+
+A modern portfolio layout experiment focused on visual hierarchy and presentation.
+
+<br>
+
+<a href="https://oxanuragofficialprojects.github.io/portfolio-design/">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+</a>
+&nbsp;
+<a href="https://github.com/oxanuragofficialprojects/portfolio-design">
+<img src="https://img.shields.io/badge/⌘_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+## 02 — Interface Clones
+
+<div align="center">
+
+### 📌 Pinterest Login Clone
+
+<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/pinterest-login-clone/main/screenshot.png" width="850">
+
+A login interface recreation focused on structure, spacing and responsive styling.
+
+<br>
+
+<a href="https://oxanuragofficialprojects.github.io/pinterest-login-clone/">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+</a>
+&nbsp;
+<a href="https://github.com/oxanuragofficialprojects/pinterest-login-clone">
+<img src="https://img.shields.io/badge/⌘_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎬 Netflix Landing Clone
+
+<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/netflix-landing-clone/main/screenshot.png" width="850">
+
+A cinematic landing-page recreation focused on layout, imagery and responsive presentation.
+
+<br>
+
+<a href="https://oxanuragofficialprojects.github.io/netflix-landing-clone/">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+</a>
+&nbsp;
+<a href="https://github.com/oxanuragofficialprojects/netflix-landing-clone">
+<img src="https://img.shields.io/badge/⌘_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📸 Instagram Clone
+
+<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/instagram-clone/main/screenshot.png" width="850">
+
+A social-media-inspired frontend interface recreated for frontend practice.
+
+<br>
+
+<a href="https://oxanuragofficialprojects.github.io/instagram-clone/">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+</a>
+&nbsp;
+<a href="https://github.com/oxanuragofficialprojects/instagram-clone">
+<img src="https://img.shields.io/badge/⌘_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🍎 Apple Website Clone
+
+<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/apple-website-clone/main/screenshot.png" width="850">
+
+A product-focused website recreation inspired by Apple's clean visual language.
+
+<br>
+
+<a href="https://oxanuragofficialprojects.github.io/apple-website-clone/">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+</a>
+&nbsp;
+<a href="https://github.com/oxanuragofficialprojects/apple-website-clone">
+<img src="https://img.shields.io/badge/⌘_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎞️ District Movie Clone
+
+<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/district-movie-clone/main/screenshot.png" width="850">
+
+A movie-focused frontend recreation with emphasis on content presentation.
+
+<br>
+
+<a href="https://oxanuragofficialprojects.github.io/district-movie-clone/">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+</a>
+&nbsp;
+<a href="https://github.com/oxanuragofficialprojects/district-movie-clone">
+<img src="https://img.shields.io/badge/⌘_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+## 03 — CSS, Animation & Experiments
+
+<div align="center">
+
+### 🚗 Moving Car Animation
+
+<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/moving-car-animation/main/screenshot.png" width="850">
+
+A CSS animation experiment demonstrating movement and visual timing.
+
+<br>
+
+<a href="https://oxanuragofficialprojects.github.io/moving-car-animation/">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+</a>
+&nbsp;
+<a href="https://github.com/oxanuragofficialprojects/moving-car-animation">
+<img src="https://img.shields.io/badge/⌘_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚽ Football Bounce Animation
+
+<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/football-bounce-animation/main/screenshot.png" width="850">
+
+A lightweight CSS animation experiment using positioning and motion.
+
+<br>
+
+<a href="https://oxanuragofficialprojects.github.io/football-bounce-animation/">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+</a>
+&nbsp;
+<a href="https://github.com/oxanuragofficialprojects/football-bounce-animation">
+<img src="https://img.shields.io/badge/⌘_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🥎 Baseball Bat Animation
+
+<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/baseball-bat-animation/main/screenshot.png" width="850">
+
+A CSS animation project exploring transformation and motion.
+
+<br>
+
+<a href="https://oxanuragofficialprojects.github.io/baseball-bat-animation/">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+</a>
+&nbsp;
+<a href="https://github.com/oxanuragofficialprojects/baseball-bat-animation">
+<img src="https://img.shields.io/badge/⌘_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎨 CSS Animation Basics
+
+<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/css-animation-basics/main/screenshot.png" width="850">
+
+A collection of foundational CSS animation techniques.
+
+<br>
+
+<a href="https://oxanuragofficialprojects.github.io/css-animation-basics/">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+</a>
+&nbsp;
+<a href="https://github.com/oxanuragofficialprojects/css-animation-basics">
+<img src="https://img.shields.io/badge/⌘_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📦 CSS Box Model
+
+<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/css-box-model/main/screenshot.png" width="850">
+
+A visual experiment demonstrating the CSS box model and spacing concepts.
+
+<br>
+
+<a href="https://oxanuragofficialprojects.github.io/css-box-model/">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+</a>
+&nbsp;
+<a href="https://github.com/oxanuragofficialprojects/css-box-model">
+<img src="https://img.shields.io/badge/⌘_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+## 04 — Business & Client Websites
+
+<div align="center">
+
+### 🇮🇳 Bharat Webstudio
+
+<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/bharat-webstudio-official/main/screenshot.png" width="850">
+
+Official website for Bharat Webstudio, presenting web development services and client work.
+
+<br>
+
+<a href="https://oxanuragofficialprojects.github.io/bharat-webstudio-official/">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+</a>
+&nbsp;
+<a href="https://github.com/oxanuragofficialprojects/bharat-webstudio-official">
+<img src="https://img.shields.io/badge/⌘_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🧁 Bakery Business Website
+
+<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/bakery-business-website-client/main/screenshot.png" width="850">
+
+A responsive business website developed for a bakery client.
+
+<br>
+
+<a href="https://oxanuragofficialprojects.github.io/bakery-business-website-client/">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+</a>
+&nbsp;
+<a href="https://github.com/oxanuragofficialprojects/bakery-business-website-client">
+<img src="https://img.shields.io/badge/⌘_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🍽️ Restaurant Website
+
+<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/restaurant-website-client/main/screenshot.png" width="850">
+
+A professional restaurant website featuring menu presentation and contact-focused sections.
+
+<br>
+
+<a href="https://oxanuragofficialprojects.github.io/restaurant-website-client/">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+</a>
+&nbsp;
+<a href="https://github.com/oxanuragofficialprojects/restaurant-website-client">
+<img src="https://img.shields.io/badge/⌘_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💪 Gym E-Commerce Website
+
+<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/gym-ecommerce-website-client/main/screenshot.png" width="850">
+
+An e-commerce style website designed for a gym business with product-focused layouts.
+
+<br>
+
+<a href="https://oxanuragofficialprojects.github.io/gym-ecommerce-website-client/">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+</a>
+&nbsp;
+<a href="https://github.com/oxanuragofficialprojects/gym-ecommerce-website-client">
+<img src="https://img.shields.io/badge/⌘_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💇 Salon Shop Website
+
+<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/salon-shop-website-client/main/screenshot.png" width="850">
+
+An e-commerce style website created for a salon business.
+
+<br>
+
+<a href="https://oxanuragofficialprojects.github.io/salon-shop-website-client/">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+</a>
+&nbsp;
+<a href="https://github.com/oxanuragofficialprojects/salon-shop-website-client">
+<img src="https://img.shields.io/badge/⌘_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+## 05 — More Projects
+
+The archive also contains additional frontend experiments, practice projects and website concepts.
+
+<details>
+<summary><b>View all additional projects</b></summary>
+
+<br>
+
+<div align="center">
+
+### 🧪 Periodic Table
+
+<a href="https://oxanuragofficialprojects.github.io/periodic-table/">
+<img src="https://img.shields.io/badge/LIVE-000000?style=for-the-badge">
+</a>
+<a href="https://github.com/oxanuragofficialprojects/periodic-table">
+<img src="https://img.shields.io/badge/SOURCE-222222?style=for-the-badge&logo=github">
+</a>
+
+<br><br>
+
+### 🚀 Landing Page Design
+
+<a href="https://oxanuragofficialprojects.github.io/landing-page-design/">
+<img src="https://img.shields.io/badge/LIVE-000000?style=for-the-badge">
+</a>
+<a href="https://github.com/oxanuragofficialprojects/landing-page-design">
+<img src="https://img.shields.io/badge/SOURCE-222222?style=for-the-badge&logo=github">
+</a>
+
+<br><br>
+
+### 🏏 Football / Baseball / Motion Experiments
+
+Explore the individual repositories for additional animation experiments.
+
+<br>
+
+<a href="https://github.com/oxanuragofficialprojects?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+</details>
+
+---
+
+<div align="center">
+
+# 🧰 TECHNOLOGY
+
+<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Pages-111111?style=for-the-badge&logo=github&logoColor=white">
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌐 EXPLORE THE FULL ARCHIVE
+
+<br>
+
+<a href="https://project-archive-ruddy.vercel.app/">
+<img src="https://img.shields.io/badge/🚀_OPEN_PROJECT_ARCHIVE-000000?style=for-the-badge">
+</a>
+
+<br><br>
+
+<a href="https://github.com/oxanuragofficial">
+<img src="https://img.shields.io/badge/GITHUB_PROFILE-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://my-portfolio-gamma-roan-37.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-222222?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<br><br>
+
+### Built with curiosity. Improved through practice. Shipped to the web.
+
 </div>
