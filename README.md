@@ -24,13 +24,13 @@
 <img src="https://img.shields.io/badge/🌐_PORTFOLIO-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
-<br><br>
+
 
 
 
 </div>
 
-<br><br>
+
 
 <img src="https://img.shields.io/badge/42%2B_PROJECTS-111827?style=for-the-badge">
 <img src="https://img.shields.io/badge/LIVE_WEBSITES-111827?style=for-the-badge">
