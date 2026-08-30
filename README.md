@@ -2,19 +2,19 @@
 
 # ⚡ PROJECT ARCHIVE
 
-### A visual collection of websites, interfaces, experiments, animations & client projects.
+### A curated collection of websites, UI experiments, clones, animations & client projects.
 
 <br>
 
 <a href="https://project-archive-ruddy.vercel.app/">
-  <img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECT_ARCHIVE-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECT_ARCHIVE-0B1220?style=for-the-badge&logo=vercel&logoColor=00D9FF">
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/42%2B_PROJECTS-111111?style=for-the-badge">
-<img src="https://img.shields.io/badge/LIVE_PROJECTS-111111?style=for-the-badge">
-<img src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JAVASCRIPT-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/42%2B_PROJECTS-111827?style=for-the-badge">
+<img src="https://img.shields.io/badge/LIVE_WEBSITES-111827?style=for-the-badge">
+<img src="https://img.shields.io/badge/FRONTEND_PROJECTS-111827?style=for-the-badge">
 
 </div>
 
@@ -22,13 +22,15 @@
 
 <div align="center">
 
-## ✦ ABOUT THE ARCHIVE
+# ✦ ABOUT
 
-A centralized collection of web projects built while exploring frontend development, responsive design, UI recreation, CSS animation, JavaScript interactions, business websites and e-commerce interfaces.
+A centralized collection of web projects built across different stages of frontend development.
 
-Every project includes its own source repository and live deployment.
+This archive includes **website designs, UI recreations, business websites, responsive layouts, CSS experiments, animations, JavaScript projects and client-focused interfaces.**
 
-### **Explore → Preview → Open → Inspect the Code**
+<br>
+
+**Explore the project → Visit the live website → Inspect the source code**
 
 </div>
 
@@ -44,24 +46,18 @@ Every project includes its own source repository and live deployment.
 
 <div align="center">
 
-## 🧹 Cleen
+## 🔹 Cleen
 
-<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/cleen/main/image/screenshot.png" width="850">
-
-<br>
-
-A clean frontend project focused on modern layout, responsive structure and visual presentation.
+A clean frontend website focused on layout, structure and responsive design.
 
 <br>
 
 <a href="https://oxanuragofficialprojects.github.io/cleen/">
-<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-0EA5E9?style=for-the-badge&logoColor=white">
 </a>
-
-  
-
+&nbsp;&nbsp;
 <a href="https://github.com/oxanuragofficialprojects/cleen">
-<img src="https://img.shields.io/badge/💻_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-1E293B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -70,24 +66,18 @@ A clean frontend project focused on modern layout, responsive structure and visu
 
 <div align="center">
 
-## ▶️ YouTube Video Grid
-
-<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/youtube-video-grid/main/image/screenshot.png" width="850">
-
-<br>
+## 🔹 YouTube Video Grid
 
 A responsive video-grid interface inspired by modern video platforms.
 
 <br>
 
 <a href="https://oxanuragofficialprojects.github.io/youtube-video-grid/">
-<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-0EA5E9?style=for-the-badge">
 </a>
-
-  
-
+&nbsp;&nbsp;
 <a href="https://github.com/oxanuragofficialprojects/youtube-video-grid">
-<img src="https://img.shields.io/badge/💻_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-1E293B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -96,24 +86,18 @@ A responsive video-grid interface inspired by modern video platforms.
 
 <div align="center">
 
-## ▶️ YouTube Homepage Clone
+## 🔹 YouTube Homepage Clone
 
-<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/youtube-homepage-clone/main/image/screenshot.png" width="850">
-
-<br>
-
-A YouTube-inspired homepage recreation built to practice responsive layouts and interface design.
+A YouTube-inspired homepage recreation focused on responsive layout and interface design.
 
 <br>
 
 <a href="https://oxanuragofficialprojects.github.io/youtube-homepage-clone/">
-<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-0EA5E9?style=for-the-badge">
 </a>
-
-  
-
+&nbsp;&nbsp;
 <a href="https://github.com/oxanuragofficialprojects/youtube-homepage-clone">
-<img src="https://img.shields.io/badge/💻_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-1E293B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -122,24 +106,18 @@ A YouTube-inspired homepage recreation built to practice responsive layouts and 
 
 <div align="center">
 
-## 🏢 TCS Website Clone
+## 🔹 TCS Website Clone
 
-<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/tcs-website-clone/main/image/screenshot.png" width="850">
-
-<br>
-
-A corporate website recreation focused on structured sections, navigation and responsive presentation.
+A corporate-style website recreation focused on structure, navigation and responsive presentation.
 
 <br>
 
 <a href="https://oxanuragofficialprojects.github.io/tcs-website-clone/">
-<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-0EA5E9?style=for-the-badge">
 </a>
-
-  
-
+&nbsp;&nbsp;
 <a href="https://github.com/oxanuragofficialprojects/tcs-website-clone">
-<img src="https://img.shields.io/badge/💻_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-1E293B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -148,24 +126,18 @@ A corporate website recreation focused on structured sections, navigation and re
 
 <div align="center">
 
-## 📐 Responsive Media Query Grid
+## 🔹 Responsive Media Query Grid
 
-<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/responsive-media-query-grid/main/image/screenshot.png" width="850">
-
-<br>
-
-A responsive grid experiment demonstrating layouts that adapt across different screen sizes.
+A responsive layout experiment demonstrating adaptive grid behaviour across different screen sizes.
 
 <br>
 
 <a href="https://oxanuragofficialprojects.github.io/responsive-media-query-grid/">
-<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-0EA5E9?style=for-the-badge">
 </a>
-
-  
-
+&nbsp;&nbsp;
 <a href="https://github.com/oxanuragofficialprojects/responsive-media-query-grid">
-<img src="https://img.shields.io/badge/💻_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-1E293B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -174,24 +146,18 @@ A responsive grid experiment demonstrating layouts that adapt across different s
 
 <div align="center">
 
-## 👤 Professional Profile Card
+## 🔹 Professional Profile Card
 
-<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/professional-profile-card/main/image/screenshot.png" width="850">
-
-<br>
-
-A professional profile-card interface built with responsive frontend techniques.
+A compact professional profile-card interface built with responsive frontend techniques.
 
 <br>
 
 <a href="https://oxanuragofficialprojects.github.io/professional-profile-card/">
-<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-0EA5E9?style=for-the-badge">
 </a>
-
-  
-
+&nbsp;&nbsp;
 <a href="https://github.com/oxanuragofficialprojects/professional-profile-card">
-<img src="https://img.shields.io/badge/💻_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-1E293B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -200,24 +166,18 @@ A professional profile-card interface built with responsive frontend techniques.
 
 <div align="center">
 
-## 💼 Portfolio Design
+## 🔹 Portfolio Design
 
-<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/portfolio-design/main/image/screenshot.png" width="850">
-
-<br>
-
-A portfolio UI experiment focused on visual hierarchy, responsive structure and presentation.
+A portfolio interface experiment focused on visual hierarchy, spacing and responsive presentation.
 
 <br>
 
 <a href="https://oxanuragofficialprojects.github.io/portfolio-design/">
-<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-0EA5E9?style=for-the-badge">
 </a>
-
-  
-
+&nbsp;&nbsp;
 <a href="https://github.com/oxanuragofficialprojects/portfolio-design">
-<img src="https://img.shields.io/badge/💻_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-1E293B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -230,28 +190,20 @@ A portfolio UI experiment focused on visual hierarchy, responsive structure and 
 
 </div>
 
----
-
 <div align="center">
 
-## 📌 Pinterest Login Clone
-
-<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/pinterest-login-clone/main/image/screenshot.png" width="850">
-
-<br>
+## 🔹 Pinterest Login Clone
 
 A Pinterest-inspired login interface recreated for frontend practice.
 
 <br>
 
 <a href="https://oxanuragofficialprojects.github.io/pinterest-login-clone/">
-<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-0EA5E9?style=for-the-badge">
 </a>
-
-  
-
+&nbsp;&nbsp;
 <a href="https://github.com/oxanuragofficialprojects/pinterest-login-clone">
-<img src="https://img.shields.io/badge/💻_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-1E293B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -260,24 +212,18 @@ A Pinterest-inspired login interface recreated for frontend practice.
 
 <div align="center">
 
-## 🎬 Netflix Landing Clone
-
-<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/netflix-landing-clone/main/image/screenshot.png" width="850">
-
-<br>
+## 🔹 Netflix Landing Clone
 
 A cinematic landing-page recreation focused on visual composition and responsive design.
 
 <br>
 
 <a href="https://oxanuragofficialprojects.github.io/netflix-landing-clone/">
-<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-0EA5E9?style=for-the-badge">
 </a>
-
-  
-
+&nbsp;&nbsp;
 <a href="https://github.com/oxanuragofficialprojects/netflix-landing-clone">
-<img src="https://img.shields.io/badge/💻_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-1E293B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -286,24 +232,18 @@ A cinematic landing-page recreation focused on visual composition and responsive
 
 <div align="center">
 
-## 📸 Instagram Clone
-
-<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/instagram-clone/main/image/screenshot.png" width="850">
-
-<br>
+## 🔹 Instagram Clone
 
 A social-media interface recreation designed to practice frontend layouts and components.
 
 <br>
 
 <a href="https://oxanuragofficialprojects.github.io/instagram-clone/">
-<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-0EA5E9?style=for-the-badge">
 </a>
-
-  
-
+&nbsp;&nbsp;
 <a href="https://github.com/oxanuragofficialprojects/instagram-clone">
-<img src="https://img.shields.io/badge/💻_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-1E293B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -312,24 +252,18 @@ A social-media interface recreation designed to practice frontend layouts and co
 
 <div align="center">
 
-## 🍎 Apple Website Clone
+## 🔹 Apple Website Clone
 
-<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/apple-website-clone/main/image/screenshot.png" width="850">
-
-<br>
-
-A product-focused Apple-inspired interface recreation.
+A product-focused interface recreation inspired by Apple's clean visual presentation.
 
 <br>
 
 <a href="https://oxanuragofficialprojects.github.io/apple-website-clone/">
-<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-0EA5E9?style=for-the-badge">
 </a>
-
-  
-
+&nbsp;&nbsp;
 <a href="https://github.com/oxanuragofficialprojects/apple-website-clone">
-<img src="https://img.shields.io/badge/💻_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-1E293B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -338,24 +272,18 @@ A product-focused Apple-inspired interface recreation.
 
 <div align="center">
 
-## 🎞️ District Movie Clone
+## 🔹 District Movie Clone
 
-<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/district-movie-clone/main/image/screenshot.png" width="850">
-
-<br>
-
-A movie-focused interface recreation for practicing content-heavy layouts.
+A movie-focused interface recreation designed around content presentation.
 
 <br>
 
 <a href="https://oxanuragofficialprojects.github.io/district-movie-clone/">
-<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-0EA5E9?style=for-the-badge">
 </a>
-
-  
-
+&nbsp;&nbsp;
 <a href="https://github.com/oxanuragofficialprojects/district-movie-clone">
-<img src="https://img.shields.io/badge/💻_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-1E293B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -364,32 +292,24 @@ A movie-focused interface recreation for practicing content-heavy layouts.
 
 <div align="center">
 
-# ⚡ ANIMATIONS & CSS EXPERIMENTS
+# ⚡ ANIMATIONS & CSS
 
 </div>
 
----
-
 <div align="center">
 
-## 🚗 Moving Car Animation
+## 🔹 Moving Car Animation
 
-<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/moving-car-animation/main/image/screenshot.png" width="850">
-
-<br>
-
-A CSS animation experiment focused on movement, positioning and timing.
+A CSS animation experiment exploring movement, positioning and timing.
 
 <br>
 
 <a href="https://oxanuragofficialprojects.github.io/moving-car-animation/">
-<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-0EA5E9?style=for-the-badge">
 </a>
-
-  
-
+&nbsp;&nbsp;
 <a href="https://github.com/oxanuragofficialprojects/moving-car-animation">
-<img src="https://img.shields.io/badge/💻_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-1E293B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -398,24 +318,18 @@ A CSS animation experiment focused on movement, positioning and timing.
 
 <div align="center">
 
-## ⚽ Football Bounce Animation
+## 🔹 Football Bounce Animation
 
-<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/football-bounce-animation/main/image/screenshot.png" width="850">
-
-<br>
-
-A lightweight animation experiment demonstrating CSS motion and positioning.
+A lightweight CSS animation experiment demonstrating motion and positioning.
 
 <br>
 
 <a href="https://oxanuragofficialprojects.github.io/football-bounce-animation/">
-<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-0EA5E9?style=for-the-badge">
 </a>
-
-  
-
+&nbsp;&nbsp;
 <a href="https://github.com/oxanuragofficialprojects/football-bounce-animation">
-<img src="https://img.shields.io/badge/💻_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-1E293B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -424,24 +338,18 @@ A lightweight animation experiment demonstrating CSS motion and positioning.
 
 <div align="center">
 
-## 🏏 Baseball Bat Animation
+## 🔹 Baseball Bat Animation
 
-<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/baseball-bat-animation/main/image/screenshot.png" width="850">
-
-<br>
-
-A CSS animation project exploring transformation and motion.
+A CSS animation project exploring transformations and motion.
 
 <br>
 
 <a href="https://oxanuragofficialprojects.github.io/baseball-bat-animation/">
-<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-0EA5E9?style=for-the-badge">
 </a>
-
-  
-
+&nbsp;&nbsp;
 <a href="https://github.com/oxanuragofficialprojects/baseball-bat-animation">
-<img src="https://img.shields.io/badge/💻_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-1E293B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -450,24 +358,18 @@ A CSS animation project exploring transformation and motion.
 
 <div align="center">
 
-## 🎨 CSS Animation Basics
+## 🔹 CSS Animation Basics
 
-<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/css-animation-basics/main/image/screenshot.png" width="850">
-
-<br>
-
-A collection of fundamental CSS animation techniques and experiments.
+A collection of foundational CSS animation experiments.
 
 <br>
 
 <a href="https://oxanuragofficialprojects.github.io/css-animation-basics/">
-<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-0EA5E9?style=for-the-badge">
 </a>
-
-  
-
+&nbsp;&nbsp;
 <a href="https://github.com/oxanuragofficialprojects/css-animation-basics">
-<img src="https://img.shields.io/badge/💻_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-1E293B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -480,28 +382,20 @@ A collection of fundamental CSS animation techniques and experiments.
 
 </div>
 
----
-
 <div align="center">
 
-## 🇮🇳 Bharat Webstudio
+## 🔹 Bharat Webstudio
 
-<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/bharat-webstudio-official/main/image/screenshot.png" width="850">
-
-<br>
-
-Official website for Bharat Webstudio showcasing professional web development services and client work.
+Official website for Bharat Webstudio showcasing web development services and client work.
 
 <br>
 
 <a href="https://oxanuragofficialprojects.github.io/bharat-webstudio-official/">
-<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-0EA5E9?style=for-the-badge">
 </a>
-
-  
-
+&nbsp;&nbsp;
 <a href="https://github.com/oxanuragofficialprojects/bharat-webstudio-official">
-<img src="https://img.shields.io/badge/💻_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-1E293B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -510,24 +404,18 @@ Official website for Bharat Webstudio showcasing professional web development se
 
 <div align="center">
 
-## 🧁 Bakery Business Website
-
-<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/bakery-business-website-client/main/image/screenshot.png" width="850">
-
-<br>
+## 🔹 Bakery Business Website
 
 A responsive business website developed for a bakery client.
 
 <br>
 
 <a href="https://oxanuragofficialprojects.github.io/bakery-business-website-client/">
-<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-0EA5E9?style=for-the-badge">
 </a>
-
-  
-
+&nbsp;&nbsp;
 <a href="https://github.com/oxanuragofficialprojects/bakery-business-website-client">
-<img src="https://img.shields.io/badge/💻_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-1E293B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -536,24 +424,18 @@ A responsive business website developed for a bakery client.
 
 <div align="center">
 
-## 🍽️ Restaurant Website
+## 🔹 Restaurant Website
 
-<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/restaurant-website-client/main/image/screenshot.png" width="850">
-
-<br>
-
-A professional restaurant website with menu presentation and contact-focused sections.
+A professional restaurant website featuring menu presentation and contact-focused sections.
 
 <br>
 
 <a href="https://oxanuragofficialprojects.github.io/restaurant-website-client/">
-<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-0EA5E9?style=for-the-badge">
 </a>
-
-  
-
+&nbsp;&nbsp;
 <a href="https://github.com/oxanuragofficialprojects/restaurant-website-client">
-<img src="https://img.shields.io/badge/💻_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-1E293B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -562,24 +444,18 @@ A professional restaurant website with menu presentation and contact-focused sec
 
 <div align="center">
 
-## 💪 Gym E-Commerce Website
-
-<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/gym-ecommerce-website-client/main/image/screenshot.png" width="850">
-
-<br>
+## 🔹 Gym E-Commerce Website
 
 An e-commerce interface designed for a gym business with product-focused presentation.
 
 <br>
 
 <a href="https://oxanuragofficialprojects.github.io/gym-ecommerce-website-client/">
-<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-0EA5E9?style=for-the-badge">
 </a>
-
-  
-
+&nbsp;&nbsp;
 <a href="https://github.com/oxanuragofficialprojects/gym-ecommerce-website-client">
-<img src="https://img.shields.io/badge/💻_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-1E293B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -588,24 +464,18 @@ An e-commerce interface designed for a gym business with product-focused present
 
 <div align="center">
 
-## 💇 Salon Shop Website
-
-<img src="https://raw.githubusercontent.com/oxanuragofficialprojects/salon-shop-website-client/main/image/screenshot.png" width="850">
-
-<br>
+## 🔹 Salon Shop Website
 
 An e-commerce-style website created for a salon business.
 
 <br>
 
 <a href="https://oxanuragofficialprojects.github.io/salon-shop-website-client/">
-<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-0EA5E9?style=for-the-badge">
 </a>
-
-  
-
+&nbsp;&nbsp;
 <a href="https://github.com/oxanuragofficialprojects/salon-shop-website-client">
-<img src="https://img.shields.io/badge/💻_SOURCE_CODE-222222?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-1E293B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -614,13 +484,13 @@ An e-commerce-style website created for a salon business.
 
 <div align="center">
 
-# 🧪 PRACTICE & MINI PROJECTS
+# 🧪 PRACTICE PROJECTS
 
 </div>
 
 <div align="center">
 
-|            Project            |                                       Live                                       |                                       Source                                       |
+|            PROJECT            |                                   LIVE WEBSITE                                   |                                     SOURCE CODE                                    |
 | :---------------------------: | :------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
 |       **Periodic Table**      |       [🌐 Live](https://oxanuragofficialprojects.github.io/periodic-table/)      |       [💻 Source](https://github.com/oxanuragofficialprojects/periodic-table)      |
 |         **Calculator**        |         [🌐 Live](https://oxanuragofficialprojects.github.io/calculator/)        |         [💻 Source](https://github.com/oxanuragofficialprojects/calculator)        |
@@ -645,11 +515,17 @@ An e-commerce-style website created for a salon business.
 
 <div align="center">
 
-# 🛠️ TECHNOLOGY
+# 🛠️ TECHNOLOGIES
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vercel">
+<img src="https://img.shields.io/badge/HTML5-0EA5E9?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-0EA5E9?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-0EA5E9?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Git-1E293B?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-1E293B?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Pages-1E293B?style=for-the-badge&logo=github&logoColor=white">
 
 </div>
 
@@ -657,28 +533,28 @@ An e-commerce-style website created for a salon business.
 
 <div align="center">
 
-# 🚀 EXPLORE EVERYTHING
+# 🚀 EXPLORE THE FULL ARCHIVE
 
 <br>
 
 <a href="https://project-archive-ruddy.vercel.app/">
-<img src="https://img.shields.io/badge/🚀_OPEN_FULL_PROJECT_ARCHIVE-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/🚀_OPEN_PROJECT_ARCHIVE-0284C7?style=for-the-badge">
 </a>
 
 <br><br>
 
 <a href="https://github.com/oxanuragofficial">
-<img src="https://img.shields.io/badge/💻_GITHUB_PROFILE-111111?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB_PROFILE-1E293B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
- 
+  
 
 <a href="https://my-portfolio-gamma-roan-37.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_PORTFOLIO-222222?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/PORTFOLIO-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
 <br><br>
 
-### Built → Deployed → Documented
+### ⚡ Built · Deployed · Documented
 
 </div>
