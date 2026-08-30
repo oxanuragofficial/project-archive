@@ -6,9 +6,29 @@
 
 <br>
 
+<div align="center">
+
+# 🚀 EXPLORE THE FULL ARCHIVE
+
+<br>
+
 <a href="https://project-archive-ruddy.vercel.app/">
-<img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECT_ARCHIVE-0B1220?style=for-the-badge&logo=vercel&logoColor=00D9FF">
+<img src="https://img.shields.io/badge/🚀_PROJECT_ARCHIVE-0284C7?style=for-the-badge">
 </a>
+&nbsp;&nbsp;
+<a href="https://github.com/oxanuragofficial">
+<img src="https://img.shields.io/badge/💻_GITHUB_PROFILE-1E293B?style=for-the-badge&logo=github&logoColor=white">
+</a>
+&nbsp;&nbsp;
+<a href="https://my-portfolio-gamma-roan-37.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<br><br>
+
+
+
+</div>
 
 <br><br>
 
@@ -538,19 +558,15 @@ An e-commerce-style website created for a salon business.
 <br>
 
 <a href="https://project-archive-ruddy.vercel.app/">
-<img src="https://img.shields.io/badge/🚀_OPEN_PROJECT_ARCHIVE-0284C7?style=for-the-badge">
+<img src="https://img.shields.io/badge/🚀_PROJECT_ARCHIVE-0284C7?style=for-the-badge">
 </a>
-
-<br><br>
-
+&nbsp;&nbsp;
 <a href="https://github.com/oxanuragofficial">
-<img src="https://img.shields.io/badge/GITHUB_PROFILE-1E293B?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/💻_GITHUB_PROFILE-1E293B?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
-  
-
+&nbsp;&nbsp;
 <a href="https://my-portfolio-gamma-roan-37.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
 <br><br>
