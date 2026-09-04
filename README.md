@@ -23,11 +23,6 @@
 <a href="https://my-portfolio-gamma-roan-37.vercel.app/">
 <img src="https://img.shields.io/badge/🌐_PORTFOLIO-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
-
-
-
-
-
 </div>
 
 <br><br>
