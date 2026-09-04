@@ -64,7 +64,7 @@ This archive includes **website designs, UI recreations, business websites, resp
 
 ## 🔹 YouTube Video Grid
 
-A responsive video-grid interface inspired by modern video platforms, featuring a clean layout, organized video cards
+A responsive video-grid interface inspired by modern video platforms.
 
 <br>
 
