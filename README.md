@@ -59,25 +59,6 @@ This archive includes **website designs, UI recreations, business websites, resp
 
 ---
 
-<div align="center">
-
-## 🔹 Cleen
-
-A clean frontend website focused on layout, structure and responsive design.
-
-<br>
-
-<a href="https://oxanuragofficialprojects.github.io/cleen/">
-<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-0EA5E9?style=for-the-badge&logoColor=white">
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/oxanuragofficialprojects/cleen">
-<img src="https://img.shields.io/badge/💻_SOURCE_CODE-1E293B?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
----
 
 <div align="center">
 
